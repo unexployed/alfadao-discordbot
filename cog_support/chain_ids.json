@@ -1,0 +1,17 @@
+{
+    "ethereum":"1",
+    "optimism":"10",
+    "cronos":"25",
+    "bsc":"56",
+    "okc":"66",
+    "gnosis":"100",
+    "heco":"128",
+    "polygon":"137",
+    "fantom":"250",
+    "ethw":"10001",
+    "fon":"201022",
+    "arbitrum":"42161",
+    "avalanche":"43114",
+    "consensys-zkevm":"59140",
+    "tron":"tron"
+}
